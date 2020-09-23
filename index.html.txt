@@ -1,4 +1,13 @@
-nombre: jhonny steban osorio mora
-programa:Ingenieria de Sistemas
-fecha de creacion//08/09/2020
-oasjdn
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Index</title>
+</head>
+<body>
+	<p>
+		nombre: jhonny steban osorio mora<br>
+		programa:Ingenieria de Sistemas<br>
+		fecha de creacion//08/09/2020<br>
+	</p>
+</body>
+</html>
